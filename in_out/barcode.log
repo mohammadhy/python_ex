@@ -1,0 +1,49 @@
+2020-08-30 17:05:38,615 - __main__ - ERROR - This Error Occure:
+Traceback (most recent call last):
+  File "D:\python_code\opencv\barcode.py", line 75, in incom
+    cursor.execute(insert,[(present_info[1]),(present_info[0]), (present_info[2]) ])
+sqlite3.IntegrityError: UNIQUE constraint failed: person.userID
+2020-08-30 17:07:55,388 - __main__ - INFO - This Person ahmad By Id 123947 Come At 2020-08-30 17:07:38.435182
+2020-08-30 17:07:55,388 - __main__ - INFO - This Person ahmad By Id 123947 Come At 2020-08-30 17:07:38.435182
+2020-08-30 18:32:22,934 - __main__ - ERROR - This Error Occure:
+Traceback (most recent call last):
+  File "C:\Users\Asus\Desktop\exersice\opencv\in_out\barcode.py", line 75, in incom
+    cursor.execute(insert,[(present_info[1]),(present_info[0]), (present_info[2]) ])
+sqlite3.IntegrityError: UNIQUE constraint failed: person.userID
+2020-08-30 18:32:47,359 - __main__ - INFO - This Person martin By Id 1247857 Come At 2020-08-30 18:32:38.859957
+2020-08-30 18:32:47,359 - __main__ - INFO - This Person martin By Id 1247857 Come At 2020-08-30 18:32:38.859957
+2020-08-30 18:33:53,457 - __main__ - ERROR - This Error Occure:
+Traceback (most recent call last):
+  File "C:\Users\Asus\Desktop\exersice\opencv\in_out\barcode.py", line 105, in out
+    cursor.execute(update,[(lst_out_info[2]), (lst_out_info[1])])
+IndexError: list index out of range
+2020-08-30 18:33:53,457 - __main__ - ERROR - This Error Occure:
+Traceback (most recent call last):
+  File "C:\Users\Asus\Desktop\exersice\opencv\in_out\barcode.py", line 105, in out
+    cursor.execute(update,[(lst_out_info[2]), (lst_out_info[1])])
+IndexError: list index out of range
+2020-08-30 18:33:53,457 - __main__ - ERROR - This Error Occure:
+Traceback (most recent call last):
+  File "C:\Users\Asus\Desktop\exersice\opencv\in_out\barcode.py", line 105, in out
+    cursor.execute(update,[(lst_out_info[2]), (lst_out_info[1])])
+IndexError: list index out of range
+2020-08-30 18:35:00,329 - __main__ - ERROR - This Error Occure:
+Traceback (most recent call last):
+  File "C:\Users\Asus\Desktop\exersice\opencv\in_out\barcode.py", line 105, in out
+    cursor.execute(update,[(lst_out_info[2]), (lst_out_info[1])])
+IndexError: list index out of range
+2020-08-30 18:35:00,329 - __main__ - ERROR - This Error Occure:
+Traceback (most recent call last):
+  File "C:\Users\Asus\Desktop\exersice\opencv\in_out\barcode.py", line 105, in out
+    cursor.execute(update,[(lst_out_info[2]), (lst_out_info[1])])
+IndexError: list index out of range
+2020-08-30 18:35:00,329 - __main__ - ERROR - This Error Occure:
+Traceback (most recent call last):
+  File "C:\Users\Asus\Desktop\exersice\opencv\in_out\barcode.py", line 105, in out
+    cursor.execute(update,[(lst_out_info[2]), (lst_out_info[1])])
+IndexError: list index out of range
+2020-08-30 18:35:00,329 - __main__ - ERROR - This Error Occure:
+Traceback (most recent call last):
+  File "C:\Users\Asus\Desktop\exersice\opencv\in_out\barcode.py", line 105, in out
+    cursor.execute(update,[(lst_out_info[2]), (lst_out_info[1])])
+IndexError: list index out of range
